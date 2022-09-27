@@ -1,4 +1,4 @@
-# bms-backed
+# bms-backend
 The Spring Boot back-end application for our mobile app college project
 
 This uses the Spring Boot framework and acts as a REST API endpoint, which is ran in a cloud server -- such as Linode -- which is then connected to MariaDB.
