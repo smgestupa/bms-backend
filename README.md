@@ -13,5 +13,5 @@ This uses the Spring Boot framework and acts as a REST API endpoint, which is ra
 5. Before running, ensure that in `src/main/resources/application.properties`:
     - You are using your preferred database URL in `spring.datasource.url`
     - You are using your correct driver in `spring.datasource.driver-class-name`
-6. Go to `src/main/java/BackendApplication.java`, then press `SHIFT + F10` to run the application
+6. Go to `src/main/kotlin/BackendApplication.kt`, then press `SHIFT + F10` to run the application
 7. Open your browser, and go see [`http://localhost:8080`](http://localhost:8080) if this is successfully running
