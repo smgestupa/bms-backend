@@ -4,6 +4,8 @@ The Spring Boot back-end application for our mobile app college project
 This uses the Spring Boot framework and acts as a REST API endpoint, which is ran in a cloud server -- such as Linode -- which is then connected to MariaDB.
 
 ## Cloning the Repository
+> Make sure to clone the [bms-utils repository](https://github.com/laazyCmd/bms-utils) in the same location as this one for the image analysis to work
+
 1. Go to your preferred directory
 2. Open your terminal and execute `git@github.com:laazyCmd/bms-backed.git`
 3. Import the project, using your preferred IDE
